@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web con Fondo Fijo</title>
+    <link rel="stylesheet" href="estilo.css">
+    
+</head>
+<body>
+    <head class="parallax-bg">
+        <div class="overlay">
+            <h1>Bienvenido Al Futuro</h1>
+            <P>Diseño Elegante Con Desplazamiento Suave</P>
+        </div>
+     </head>
+     <section class="content">
+        <h2>Un toque minimalista</h2>
+        <p>Este es un ejemplo de como el contenido se desliza sobre una imagen estatica,
+            creando un efecto visual profesional y limpio.</p>
+     </section>
+
+     <div class="parallax-bg"></div>
+     
+     <section class="content">
+        <h2>Explora nuevas posibilidades</h2>
+        <p>Puedes intercalar imagenes y bloques de texto para mantener el interes
+            del usuario mientras navega.</p>
+     </section>
+</body>
+</html>
